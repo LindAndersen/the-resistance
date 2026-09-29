@@ -1,18 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.8",
+	"EngineAssociation": "{12E768F3-454C-7CA0-BD79-3EA6A9BB89E0}",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "TheResistance",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
